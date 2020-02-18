@@ -1,18 +1,16 @@
 # Thesis
 -----------
 
-## Excercise 1: Research question(s)
-
-
+# Excercise 1:
 -----------------------------------------
 
-# Topic 1. Knowledge map (Topic Map/Ontology Map)
+# Topic  Knowledge map (Topic Map/Ontology Map)
 
-Topic: I am developing a tool to map domain specific knowledge of any field
+Topic: I am developing a tool to contextualize domain specific knowledge in Mechanical/Aeronautical engineering
 
-Research question: in order to aid knowledge workers in managing an overflow of information
+Research question: to aid knowledge workers, mentors and teachers in managing and communicating information
 
-Significance: in order to simplify the process of understanding complex subjects
+Significance: in order to simplify the process of teaching complex subject matter
 
 ## Description
 
@@ -39,6 +37,30 @@ Significance: in order to simplify the process of understanding complex subjects
  Can be scaled and used as corporate knowledge management tool
 
  Automatically (autonomous or semi-autonomous) cluster and link topics
+ 
+### Data, Information, Knowledge, Wisdom pyramid model
+
+Roberts, J. (2015). A very short, fairly interesting and reasonably cheap book about knowledge management 55 City Road, London: SAGE Publications Ltd doi: 10.4135/9781473919709
+
+### Limitations of catalogues; Dewey, Library of congress
+Lump and split
+Tagging
+
+"The task of knowing is no longer to see the simple. It is to swim in the complex." p.198
+In the world after the Enlightenment, the cultural task was to build knowledge. In the miscellaneous world, the task is to build meaning, even though we cnt yet know what well do with this new domain. p.222
+
+Weinberger, David. Everything Is Miscellaneous: the Power of the New Digital Disorder. New York, NY: Holt, 2008
+
+### Knowledge unit of measurement: nuggets p.59
+Knowledge is more than just data, information. Clustering. p.112
+Not evolutionary, but continuous accumulation. p.162
+Episodic and semantic memory p.175
+Measure transferability. p.211 Fi.2
+Data mining is information processing, not knowledge management. p.259 which is what, how, why.
+Sleep makes connections.
+
+Geisler, Eliezer. Knowledge and Knowledge Systems Learning from the Wonders of the Mind. Hershey, PA: IGI Publications, 2008
+
 
 ## Pre-existing knowledge and expected response
 
@@ -109,139 +131,21 @@ http://vialab.science.uoit.ca/portfolio/docuburst
 
 ## Mindmap
 
-![Mindmap](./images/1.knowledgeMapExplore.png)
+![Mindmap](./images/KnowledgeMap.png)
+
+-----------------------------
+
+# Exercise 2: FORM
+
+The following section explores the initial background and form of the Thesis.
 
 
------------------------------------------
-
-# 2. The Urbanization, Globalization and the rise of Knowledge Economies
-
-Topic: I want to investigate the relationship between modern and historic Globalization, Urbanization and knowledge development
-
-Research question: because I want to explain modern migration crises in context of economic opportunity arising from each prior industrial revolution  
-
-Significance: in order to allow people to better plan for global development and uncertainties during the 4th industrial revolution
-
-## Description
-
- Investigate the factors that led to the 1st industrial revolution, such as creation of cities and universities in Europe (the Renaissance) and compare that to modern migration and developing countries.
-
-## Audience
-
- The Audience will include both academics and policy makers (international and political sciences) as well as general readers that know little about the topic.
-
-## Expectation
-
- The audience will most likely expect to learn some new interesting relationship about the history of economic development and migration
-
- Gain deeper insight into aspects of labor and knowledge economies
-
- Help solve modern migrant crises through focused attention to the right types of knowledge development
-
-## Pre-existing knowledge and expected response
-
- Much of the modern-day challenges are known, but often the effects arising to these challenges are not known or understood. Readers will already be aware of serious worldwide migrant challenges.
-
- A new dimension of parallels and contrasts between developed and developing countries might evoke discussion in context of colonialism and imperial expansion.
-
- Arguments against parallels might include aspects such as different cultural and environmental factors of "cold" and "warm" countries.
-
- Readers might be intrigued and challenged by the topic.
-
- The aim would not be to predict outcomes of an "African Renaissance", but to describe trends and differences that are present.  
-See: https://www.gutenberg.org/files/3300/3300-h/3300-h.htm)
-
-## Data
-
- Raw quantitative data will be expected, as well as proof  of veracity of historic data.
-
- Data sources:
-World bank, UNDESA, CTDC, IOM, PRIO (Oslo)
-
-- https://www.un.org/en/development/desa/population/index.asp
-
- Secondary sources: Historic references and research papers on European economic development and urbanization after Renaissance. 
-
-- Qty and ranking of scientific publications:
-https://www.scimagojr.com/countryrank.php
-- History of international migration:
-http://www.let.leidenuniv.nl/history/migration/databases.html
-- Urban and global transportation:
-https://transportgeography.org/?page_id=4986
-- The Victorian web:
-http://www.victorianweb.org/
-- National migration
-https://www.census.gov/topics/population/migration.html
-- Worldwide living conditions:
-https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts
-
-## References
-
-- Why are poor countries poor? https://suchanek.name/texts/poor/#intro
-
-- Why are some countries rich and others poor?
-https://research.stlouisfed.org/publications/page1-econ/2017/09/01/why-are-some-countries-rich-and-others-poor/
-
-
-## Mindmap
-
-![Mindmap](./images/2.urbanizationGlobaldev.png)
-
------------------------------------------
-
-
-# 3. Drones, privacy and security
-
-Topic: I want to investigate the rise in risk to public rights of safety and privacy due to civilian drones and weapons
-
-Research question: because public safety and commercial airline economic impact is increasingly important   
-
-Significance: due to a combined rise in extremism, observation and proliferation of critical technologies  
-
-## Description
-
- Infographic/website on increased availability and reduced cost of hobby drone technologies
-
-## Audience
-
- Aerospace industry professionals
-
- Agencies & legislators; FAA etc.
-
- "Drone hobbyists"
-
-## Expectation
-
- Expectation to anticipate impact of legislation and trade restriction on availability and access.
-
- To get better understanding the scope of the drone proliferation problem (military and civilian).
-
- To better understand risks associated with oversights.
-
-## Pre-existing knowledge and expected response
-
- Much research has been conducted by legislators and aviation security specialists.
-
- This research aims to add another dimension to existing known risks by coupling various aspects of risk and proliferation
-
-## Data
-
- - FAA list of drone sightings
-
- - Airline/Airport disruptions time/place and cost
-
- - Altitude/distance from airports
-
- - Arms control (PRIO, UNODC)
-
-## References
-
-- Proliferation of weapons: https://fas.org/asmp/campaigns/MANPADS/MANPADS.html
-
-- Drone database: 
-http://drones.cnas.org/drones/
-
-
-## Mindmap
-
-![Mindmap](./images/3.droneprolif.png)
+![Form](./images/form(1).jpg)
+![Form](./images/form(2).jpg)
+![Form](./images/form(3).jpg)
+![Form](./images/form(4).jpg)
+![Form](./images/form(5).jpg)
+![Form](./images/form(6).jpg)
+![Form](./images/form(7).jpg)
+![Form](./images/form(8).jpg)
+![Form](./images/form(9).jpg)
