@@ -165,24 +165,34 @@ Online library of documents from the National Advisory Committee for Aeronautics
 ![Prototype](./images/NACA_UK.PNG)
 ![Prototype](./images/NACA_UK2.PNG)
 
+
+
 ## Concept 1: Vertical Timeline Network Graph
-![Prototype](./images/Frame 1.jpg)
+
+
+![Prototype](./images/Frame 1.png)
+
 
 Small Multiples Effect of Nodes
-![Prototype](./images/Frame 2.jpg)
+
+![Prototype](./images/Frame 2.png)
 
 
 Node clustering logic: Voronoi Treemap
-![Prototype](./images/Frame 3.jpg)
+
+![Prototype](./images/Frame 3.png)
 
 Inspiration from Star Charts
-![Prototype](./images/Frame 4.jpg)
+
+![Prototype](./images/Frame 4.png)
 
 Topic Map Glyph Visual Language Inspiration
-![Prototype](./images/Frame 5.jpg)
+
+![Prototype](./images/Frame 5.png)
 
 Highlighting a "Knowledge route"
-![Prototype](./images/Frame 6.jpg)
+
+![Prototype](./images/Frame 6.png)
 
 
 ## Concept 2: Network Graph
