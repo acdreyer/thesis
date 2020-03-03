@@ -170,36 +170,42 @@ Online library of documents from the National Advisory Committee for Aeronautics
 ## Concept 1: Vertical Timeline Network Graph
 
 
-![Prototype](./images/Frame 1.png)
+![Prototype](./images/Frame1.png)
 
 
 Small Multiples Effect of Nodes
 
-![Prototype](./images/Frame 2.png)
+![Prototype](./images/Frame2.png)
 
 
 Node clustering logic: Voronoi Treemap
 
-![Prototype](./images/Frame 3.png)
+![Prototype](./images/Frame3.png)
+
 
 Inspiration from Star Charts
 
-![Prototype](./images/Frame 4.png)
+![Prototype](./images/Frame4.png)
+
 
 Topic Map Glyph Visual Language Inspiration
 
-![Prototype](./images/Frame 5.png)
+![Prototype](./images/Frame5.png)
+
 
 Highlighting a "Knowledge route"
 
-![Prototype](./images/Frame 6.png)
+![Prototype](./images/Frame6.png)
 
 
 ## Concept 2: Network Graph
 
+
 Alternative implementation
-![Prototype](./images/Frame 7.jpg)
+
+![Prototype](./images/Frame7.jpg)
 
 
 Highlighting a "Knowledge route"
-![Prototype](./images/Frame 8.jpg)
+
+![Prototype](./images/Frame8.jpg)
