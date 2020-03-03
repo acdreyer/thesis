@@ -203,9 +203,9 @@ Highlighting a "Knowledge route"
 
 Alternative implementation
 
-![Prototype](./images/Frame7.jpg)
+![Prototype](./images/Frame7.png)
 
 
 Highlighting a "Knowledge route"
 
-![Prototype](./images/Frame8.jpg)
+![Prototype](./images/Frame8.png)
