@@ -149,3 +149,47 @@ The following section explores the initial background and form of the Thesis.
 ![Form](./images/form(7).jpg)
 ![Form](./images/form(8).jpg)
 ![Form](./images/form(9).jpg)
+
+
+
+-----------------------------
+
+# Exercise 3: PROTOTYPING
+
+## Data Set
+
+Online library of documents from the National Advisory Committee for Aeronautics (NACA):
+![Prototype](./images/NACA_UK1.PNG)
+![Prototype](./images/NACA_USA.PNG)
+![Prototype](./images/NACA_USA2.PNG)
+![Prototype](./images/NACA_UK.PNG)
+![Prototype](./images/NACA_UK2.PNG)
+
+## Concept 1: Vertical Timeline Network Graph
+![Prototype](./images/Frame 1.jpg)
+
+Small Multiples Effect of Nodes
+![Prototype](./images/Frame 2.jpg)
+
+
+Node clustering logic: Voronoi Treemap
+![Prototype](./images/Frame 3.jpg)
+
+Inspiration from Star Charts
+![Prototype](./images/Frame 4.jpg)
+
+Topic Map Glyph Visual Language Inspiration
+![Prototype](./images/Frame 5.jpg)
+
+Highlighting a "Knowledge route"
+![Prototype](./images/Frame 6.jpg)
+
+
+## Concept 2: Network Graph
+
+Alternative implementation
+![Prototype](./images/Frame 7.jpg)
+
+
+Highlighting a "Knowledge route"
+![Prototype](./images/Frame 8.jpg)
