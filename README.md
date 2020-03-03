@@ -198,7 +198,28 @@ Highlighting a "Knowledge route"
 ![Prototype](./images/Frame6.png)
 
 
-## Concept 2: Network Graph
+## Concept 2: Network Graph and 2nd Industrial revolution
+
+
+Drawing styles
+
+![Prototype](./images/IndustrialRevStyleDrawing.jpg)
+
+SR-71 Blueprint
+![Prototype](./images/SR71_blueprint.jpg)
+
+Guggenheim Museum 
+![Prototype](./images/guggenheim.jpg)
+
+Control panel
+
+![Prototype](./images/controlPanel1.jpg)
+
+
+Control panel
+
+![Prototype](./images/Apollo_Command_Module_Main_Control_Panel.gif)
+
 
 
 Alternative implementation
