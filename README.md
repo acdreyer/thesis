@@ -22,7 +22,7 @@ Table of Contents navigation and bottom-up "back-of-the book" index based naviga
 over time.
 
 
-[![hero-image](./documentation/preview.png)](https://acdreyer.github.io/thesis/)
+[![hero-image](preview.png)](https://acdreyer.github.io/thesis/)
 
 
 ### Data sources
