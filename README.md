@@ -1,5 +1,5 @@
 # From NACA to NASA
-## Visualizing the library of research papers from the National Commision on Aeronautics (1915-1958)
+## Visualizing the research paper library of the National Advisory Committee for Aeronautics (1915-1958)
 
 >> Masters Thesis in Data Visualization from Parsons School of Design, May 2020
 
