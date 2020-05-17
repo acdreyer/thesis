@@ -6,6 +6,7 @@
 ### Table of Contents
 - [Abstract](#abstract)
 - [Data Sources](#data-sources)
+- [Written Thesis](https://acdreyer.github.io/thesis/AC_Dreyer_Thesis_Final_ver3.pdf)
 
 
 ### Abstract
